@@ -12,3 +12,10 @@ h1{
     text-align: center;
     margin-block: 40px;
 }
+
+div{
+    display: grid;
+    place-items: center;
+    border: solid 1px black;
+    min-height: 100px;
+}
